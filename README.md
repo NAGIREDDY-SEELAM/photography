@@ -1,2 +1,2 @@
 # submission-form
-https://github.com/NAGIREDDY-SEELAM/submission-form/blob/main/submition%20form.html
+https://nagireddy-seelam.github.io/submission-form/
